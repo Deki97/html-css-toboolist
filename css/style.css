@@ -4,3 +4,33 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: Arial;
+    background-color: #f6f8f9;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+header {
+    height: 100px;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.toboolist-logo {
+    display: inline-block;
+    vertical-align: middle;
+    width: 75px;
+}
+
+.toboolist-text {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 55px;
+    font-weight: bold;
+}
