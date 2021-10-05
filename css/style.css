@@ -65,8 +65,8 @@ header {
 }
 
 #add-section {
-    border: 1px solid grey;
-    color: grey;
+    border: 1px solid #f6f8f9;
+    color: #f6f8f9;
     background-color: white;
 }
 /* END BUTTON CONTAINER */
