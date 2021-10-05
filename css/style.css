@@ -15,7 +15,6 @@ body {
     margin: auto;
 }
 
-
 /* HEADER */
 header {
     height: 100px;
@@ -47,6 +46,7 @@ header {
     margin-top: 50px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    padding-left: 50px;
 }
 
 .button {
@@ -65,8 +65,8 @@ header {
 }
 
 #add-section {
-    border: 1px solid #f6f8f9;
-    color: #f6f8f9;
+    border: 1px solid lightgrey;
+    color: lightgrey;
     background-color: white;
 }
 /* END BUTTON CONTAINER */
@@ -111,6 +111,10 @@ header {
 .section-container {
     padding-top: 30px;
     padding-bottom: 30px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: 30px;
+    padding-left: 50px;
 }
 
 section {
